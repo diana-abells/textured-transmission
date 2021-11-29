@@ -3,7 +3,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
-.site-header, .entry-header, #osu-branding, .site-footer, .u-osu-powered{
+  .site-header, .entry-header, #osu-branding, .site-footer, .u-osu-powered{
   display: none !important;
   }
 
@@ -12,12 +12,18 @@ h1 {
     font-family: "Source Code Pro", Arial, sans-serif;
 }
 
+h3 {
+    font-family: "Source Code Pro", Arial, sans-serif;
+    font-weight: 700;
+    color: #000000;
+}
+
 p {
 	font-family: 'Open Sans', sans-serif;
+	color: #000000;
 }
 a {
     font-weight: 700;
     color: #000000;
     text-decoration: none;
 }
-
