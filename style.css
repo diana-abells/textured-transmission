@@ -29,6 +29,29 @@ a {
     color: #000000;
     text-decoration: none;
 }
+
+p a {
+    color: #000000;
+    text-decoration: none;
+}
+
+p a:link {
+    color: #000000;
+    text-decoration: none;
+}
+p a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+p a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+p a:active {
+    text-decoration: none;
+    color: #000000;
+}
+
 body h3 a {
 	font-family: 'Source Code Pro', monospace;
     color: #000000;
