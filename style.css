@@ -51,23 +51,28 @@ body p a:active {
 }
 
 body h3 a {
+	font-family: 'Source Code Pro', monospace;
     color: #000000;
     text-decoration: none;
 }
 
 body h3 a:link {
+	font-family: 'Source Code Pro', monospace;
     color: #000000;
     text-decoration: none;
 }
 body h3 a:visited {
+	font-family: 'Source Code Pro', monospace;
     text-decoration: none;
     color: #000000;
 }
 body h3 a:hover {
+	font-family: 'Source Code Pro', monospace;
     text-decoration: none;
     color: #000000;
 }
 body h3 a:active {
+	font-family: 'Source Code Pro', monospace;
     text-decoration: none;
     color: #000000;
 }
