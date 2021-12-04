@@ -42,7 +42,7 @@ body p a:visited {
     color: #000000;
 }
 body p a:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: #000000;
 }
 body p a:active {
@@ -68,7 +68,7 @@ body h3 a:visited {
 }
 body h3 a:hover {
 	font-family: 'Source Code Pro', monospace;
-    text-decoration: none;
+    text-decoration: underline;
     color: #000000;
 }
 body h3 a:active {
@@ -95,7 +95,7 @@ body h1 a:visited {
 }
 body h1 a:hover {
 	font-family: 'Source Code Pro', monospace;
-    text-decoration: none;
+    text-decoration: underline;
     color: #000000;
 }
 body h1 a:active {
