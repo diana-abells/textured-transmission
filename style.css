@@ -103,3 +103,8 @@ body h1 a:active {
     text-decoration: none;
     color: #000000;
 }
+
+body p em {
+	font-family: 'Open Sans', sans-serif;
+	
+}
