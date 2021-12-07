@@ -105,6 +105,6 @@ body h1 a:active {
 }
 
 body p em {
-	font-family: 'Open Sans', sans-serif;
-	
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;	
 }
